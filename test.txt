@@ -3,7 +3,11 @@ hello  Kingsoft!
 
 Branch FAAT_MAIN
 
+<<<<<<< HEAD
 Branch FAAT_MAIN_BUG1003
 
 End merge Branch FAAT_MAIN_BUG1003
 
+=======
+Branch FAAT_MAIN_1002
+>>>>>>> FAAT_MAIN_Bug1002
